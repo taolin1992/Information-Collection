@@ -6,4 +6,6 @@ To change the target e-library, please replace the old domain name with the new 
 
 2.The main() function definition in "dlut.py":   domain_name='db.lib.bua.edu.cn'
 
+For more information, please visit <a href="http://ta0lin.info/?page_id=19">http://ta0lin.info/?page_id=19<a />
+
 
